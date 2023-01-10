@@ -2,4 +2,4 @@
 
 Welcome to GHW 2023
 
-I am attending GHW.
+I am attending Gdsc
